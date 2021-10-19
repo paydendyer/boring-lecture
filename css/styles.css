@@ -1,9 +1,12 @@
-h2.intro {
+h2 {
   color: green;
 }
-p.intro {
+p {
   background-color: black;
 }
-img.intro {
+img {
   font-size:small;
+}
+.intro {
+  background-color: white;
 }
